@@ -1,5 +1,4 @@
 -     Henlo, I’m Spy
--     I like monee
 
 <!---
 Spy06/Spy06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
